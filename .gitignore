@@ -1,0 +1,2 @@
+# Build output from `node main.ts` — rebuilt at submission time, not part of the entry.
+out/
